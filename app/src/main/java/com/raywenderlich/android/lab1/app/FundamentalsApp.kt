@@ -27,7 +27,6 @@ fun FundamentalsApp() {
                 is Screen.Scaffold-> ScaffoldScreen()
 
 
-
             }
         }
     }
